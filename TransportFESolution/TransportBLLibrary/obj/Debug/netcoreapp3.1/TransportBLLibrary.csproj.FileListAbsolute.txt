@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\TransportFESolution\TransportBLLibrary\bin\Debug\netcoreapp3.1\TransportBLLibrary.deps.json
+C:\Users\Lenovo\source\repos\TransportFESolution\TransportBLLibrary\bin\Debug\netcoreapp3.1\TransportBLLibrary.dll
+C:\Users\Lenovo\source\repos\TransportFESolution\TransportBLLibrary\bin\Debug\netcoreapp3.1\TransportBLLibrary.pdb
+C:\Users\Lenovo\source\repos\TransportFESolution\TransportBLLibrary\bin\Debug\netcoreapp3.1\TransportDALLibrary.dll
+C:\Users\Lenovo\source\repos\TransportFESolution\TransportBLLibrary\bin\Debug\netcoreapp3.1\TransportDALLibrary.pdb
+C:\Users\Lenovo\source\repos\TransportFESolution\TransportBLLibrary\obj\Debug\netcoreapp3.1\TransportBLLibrary.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\TransportFESolution\TransportBLLibrary\obj\Debug\netcoreapp3.1\TransportBLLibrary.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\TransportFESolution\TransportBLLibrary\obj\Debug\netcoreapp3.1\TransportBLLibrary.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\TransportFESolution\TransportBLLibrary\obj\Debug\netcoreapp3.1\TransportBLLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\TransportFESolution\TransportBLLibrary\obj\Debug\netcoreapp3.1\TransportBLLibrary.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\TransportFESolution\TransportBLLibrary\obj\Debug\netcoreapp3.1\TransportBLLibrary.dll
+C:\Users\Lenovo\source\repos\TransportFESolution\TransportBLLibrary\obj\Debug\netcoreapp3.1\TransportBLLibrary.pdb
+C:\Users\Lenovo\source\repos\TransportFESolution\TransportBLLibrary\bin\Debug\netcoreapp3.1\DriverDALLibrary.dll
+C:\Users\Lenovo\source\repos\TransportFESolution\TransportBLLibrary\bin\Debug\netcoreapp3.1\DriverDALLibrary.pdb

@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\TransportFESolution\DriverDALLibrary\obj\Debug\netcoreapp3.1\DriverDALLibrary.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\TransportFESolution\DriverDALLibrary\obj\Debug\netcoreapp3.1\DriverDALLibrary.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\TransportFESolution\DriverDALLibrary\obj\Debug\netcoreapp3.1\DriverDALLibrary.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\TransportFESolution\DriverDALLibrary\obj\Debug\netcoreapp3.1\DriverDALLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\TransportFESolution\DriverDALLibrary\bin\Debug\netcoreapp3.1\DriverDALLibrary.deps.json
+C:\Users\Lenovo\source\repos\TransportFESolution\DriverDALLibrary\bin\Debug\netcoreapp3.1\DriverDALLibrary.dll
+C:\Users\Lenovo\source\repos\TransportFESolution\DriverDALLibrary\bin\Debug\netcoreapp3.1\DriverDALLibrary.pdb
+C:\Users\Lenovo\source\repos\TransportFESolution\DriverDALLibrary\obj\Debug\netcoreapp3.1\DriverDALLibrary.dll
+C:\Users\Lenovo\source\repos\TransportFESolution\DriverDALLibrary\obj\Debug\netcoreapp3.1\DriverDALLibrary.pdb
